@@ -1,0 +1,12 @@
+{
+"companyName": "SWetudio",
+"productName": "Tap Tap Gold Dash",
+"dataUrl": "Nouveau dossier.data.unityweb",
+"wasmCodeUrl": "Nouveau dossier.wasm.code.unityweb",
+"wasmFrameworkUrl": "Nouveau dossier.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
